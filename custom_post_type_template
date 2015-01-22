@@ -1,6 +1,6 @@
 <?php 
 /*
-Plugin Name: CustomPostTemplate
+Plugin Name: CustomPostTypeTemplate
 Plugin URI: http://shumpeikishi.com/
 Description: This plugin creates custom post type in WordPress backend.
 Author: Shumpei Kishi 
